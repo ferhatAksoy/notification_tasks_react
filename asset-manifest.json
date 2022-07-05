@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notification_tasks_react/static/css/main.0237751d.css",
+    "main.js": "/notification_tasks_react/static/js/main.510d4552.js",
+    "static/media/terms_and_conditions.md": "/notification_tasks_react/static/media/terms_and_conditions.213271bf4f21957bf75b.md",
+    "static/media/privacy_policy.md": "/notification_tasks_react/static/media/privacy_policy.7b09e3d15dfee4688a1d.md",
+    "index.html": "/notification_tasks_react/index.html",
+    "main.0237751d.css.map": "/notification_tasks_react/static/css/main.0237751d.css.map",
+    "main.510d4552.js.map": "/notification_tasks_react/static/js/main.510d4552.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0237751d.css",
+    "static/js/main.510d4552.js"
+  ]
+}
